@@ -6,9 +6,13 @@ I'll be *trying* to keep a README along with each script (in it's respective dir
 To use the scripts just clone the repo to a location on your $PATH, and run the scripts by dir name / name.  
   
 Example adding to $PATH:  
-```bash export PATH="/PATH/TO/REPO:$PATH ```  
+```bash
+export PATH="/PATH/TO/REPO:$PATH
+```  
   
 Example running aoe-multiplayer:  
-```bash aoe-multiplayer/aoe-multiplayer.sh ```
+```bash
+aoe-multiplayer/aoe-multiplayer.sh
+```
 
 
